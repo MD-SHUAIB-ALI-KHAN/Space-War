@@ -6,9 +6,9 @@ This was **my first game ever coded** — it started in Python 2.7, and this rep
 shows its full journey: the original, a debugged Python 3 port, and a version
 with a player leaderboard stored in MySQL.
 
-!\[Gameplay](Screenshots/Space\_War3\_Gameplay\_Demo\_1.png)
+&#x20;  !\[Gameplay](Screenshots/Space\_War3\_Gameplay\_Demo\_1.png)
 
-!\[Leaderboard](Screenshots/New%20Leaderboard%20img.png)
+&#x20;  !\[Leaderboard](Screenshots/New%20Leaderboard%20img.png)
 
 ## Versions
 
